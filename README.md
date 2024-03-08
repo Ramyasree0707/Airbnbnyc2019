@@ -10,7 +10,7 @@ This repository contains the code and documentation for conducting an explorator
 
 The primary objective of this project is to analyze the Airbnb dataset and extract actionable insights to inform strategic decisions and optimize platform performance. Key areas of analysis include factors influencing listing prices, neighborhood distribution, host impact on listing performance, and review patterns.
 
-**Dataset Description**
+**Dataset Description:**
 
 
 **id:** Unique identifier for each listing
@@ -46,6 +46,7 @@ The primary objective of this project is to analyze the Airbnb dataset and extra
 **availability_365:** Availability of the listing throughout the year
 
 **Technologies Used:**
+
 Python
 
 pandas
