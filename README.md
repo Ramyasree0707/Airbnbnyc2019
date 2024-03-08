@@ -45,22 +45,33 @@ The primary objective of this project is to analyze the Airbnb dataset and extra
 
 **availability_365:** Availability of the listing throughout the year
 
-Methodology
-Data Cleaning and Preprocessing
-Exploratory Data Analysis (EDA)
-Visualization Techniques
-Statistical Analysis
-Key Insights
-Factors influencing listing prices
-Distribution of listings across neighborhoods and room types
-Impact of host activity metrics on listing performance
-Trends in customer reviews and satisfaction levels
-Conclusion
+**Technologies Used:**
+Python
+
+pandas
+
+numpy
+
+matplotlib
+
+seaborn
+
+**Key Insights**
+
+Manhattan and Brooklyn are the most popular cities compared to the ramaining. Manhattan has most demand for Entire room/apt and Brooklyn has most demand for Private room type.
+
+Enitire room/apt is most popular among room types, and it is also expensive compared to others.
+
+Most of top listings are also in Manhattan.But, it has least number of reviews despite of being expensive and popular city
+
+Staten Island has more number of reviews, and private rooms and Entire home/apt are mostly available. So, there can be more number of listings in Staten Islan.
+
+As the host listing count increases price decreases.
+
+Some hosts has multiple listings in same and different neighbourhood groups.
+
+**Conclusion**
+
 Through comprehensive data analysis and visualization, we gained valuable insights into various aspects of Airbnb listings and customer behavior. These insights can be leveraged to optimize business operations, enhance platform performance, and guide strategic decisions for Airbnb.
 
-Technologies Used
-Python
-pandas
-numpy
-matplotlib
-seaborn
+
