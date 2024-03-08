@@ -1,4 +1,4 @@
-#Airbnb Dataset Exploratory Data Analysis (EDA)
+#**Airbnb Dataset Exploratory Data Analysis (EDA)**
 
 Overview
 This repository contains the code and documentation for conducting an exploratory data analysis (EDA) on the Airbnb dataset. The dataset comprises approximately 49,000 observations and 16 columns, providing insights into various aspects of Airbnb listings, host activity, and customer reviews.
